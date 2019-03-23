@@ -8,11 +8,11 @@ This project contemplates two approaches of data analyses that considers differe
 
 This is my first contact with the Machine Learning Development and my objective is trying to show my abilities as a fast learner and my back-end development skills.
 
-###Classifications
+### Classifications
 
 Based on training inputs, this solution build a model and classifies sentiments in two different classification types.
 
-#####Binary Classification 
+##### Binary Classification 
                     
 Sentiment  | Value
 ------------- | -------------
@@ -20,7 +20,7 @@ Positive  | 1
 Negative  | 0
 
 
-#####Multiclass Classification 
+##### Multiclass Classification 
 
 Sentiment  | Value
 ------------- | -------------
