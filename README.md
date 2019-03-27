@@ -34,7 +34,7 @@ Very Negative  | -2
 
 * **Fabio Neves** - *Initial work*
 
-## Acknowledgments
+## Stack
 
 * Machine Learning
 * C#
